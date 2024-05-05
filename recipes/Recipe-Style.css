@@ -1,0 +1,18 @@
+*{
+    text-align: center;
+}
+
+body{
+    background-color: beige;
+}
+
+.final-product{
+    margin: auto;
+    display: block;
+    width: 600px;
+    height: auto;
+}
+
+ul,ol{
+    list-style-position:inside;
+}
